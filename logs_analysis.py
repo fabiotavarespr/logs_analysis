@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 # encoding: utf-8
 """Projeto de Analise de Log do Curso de nanodegree Full Stack da Udacity"""
 import psycopg2
